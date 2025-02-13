@@ -19,6 +19,6 @@
 5. **Компановка чартов в дашборд.**
 6. **Добавление селекторов, и настройка связей между ними и датасетами.**
 
-[SQL-запрос](https://github.com/SergeyObukhov/DataLens/blob/master/sql_query.sql)
-
-[Дашборд](https://datalens.yandex.cloud/d7q90qeos4h6z)
+### Результаты  
+- [SQL-запрос](https://github.com/SergeyObukhov/DataLens/blob/master/sql_query.sql)
+- [Дашборд](https://datalens.yandex.cloud/d7q90qeos4h6z)
