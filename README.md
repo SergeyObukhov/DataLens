@@ -21,4 +21,4 @@
 
 ### Результаты  
 - [SQL-запрос](https://github.com/SergeyObukhov/DataLens/blob/master/sql_query.sql)
-- [Дашборд](https://datalens.yandex.cloud/d7q90qeos4h6z)
+- [Дашборд](https://datalens.yandex/d7q90qeos4h6z)
