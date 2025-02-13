@@ -21,6 +21,6 @@
 6. **Добавление селекторов, и настройка связей между ними и датасетами.**
 
 ### Результаты  
-- [1. SQL-запрос](https://github.com/SergeyObukhov/DataLens/blob/master/sql_query.sql)
-- [2. Дашборд](https://datalens.yandex/d7q90qeos4h6z)
-- [3. Pandas-решение](https://github.com/SergeyObukhov/DataLens/blob/master/pandas_relation.ipynb)
+- [SQL-запрос](https://github.com/SergeyObukhov/DataLens/blob/master/sql_query.sql)
+- [Дашборд](https://datalens.yandex/d7q90qeos4h6z)
+- [Pandas-решение](https://github.com/SergeyObukhov/DataLens/blob/master/pandas_relation.ipynb)
